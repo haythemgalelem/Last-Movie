@@ -1,6 +1,6 @@
 {
   "name": "last-movie",
-  "version": "0.1",
+  "version": "0.0.1",
   "private": false,
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
