@@ -1,0 +1,26 @@
+.fw{
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0px 10px 10px;
+}
+.film_button {
+    background: red;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+    border: transparent;
+}
+.card {
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 6px 18px -9px rgba(0, 0, 0, 0.75);
+  transition: transform 100ms ease-in;
+  cursor: pointer;
+  text-align: left;
+}
+
+.card:hover {
+  transform: scale(1.07);
+}
